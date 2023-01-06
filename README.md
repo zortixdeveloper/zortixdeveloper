@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Zortix and I do the codings :)
+<h1 align="center">Hello I am Ismaël and I do the codings :)
  
 
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
@@ -7,7 +7,6 @@
 ## I am a FiveM Developer and have my own phone
 
 - ⚡ I am currently developing a brand new FiveM server
-- ⚡ I am also currently in LAB Project https://discord.gg/labfrance
 
 <img align="right" alt="GIF" src="https://i.ibb.co/YPnsXjK/wow.gif" width="500" height="320" />
 
@@ -16,8 +15,8 @@
 
 ### All my Social Accounts: 
 
-[<img align="left" alt="Zortix | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
-[<img align="left" alt="Zortix | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="Ismaël | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
+[<img align="left" alt="Ismaël | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
 </br>
 
